@@ -1,0 +1,312 @@
+[
+  {
+    "chunk_id": "page_1_chunk_1",
+    "page_number": 1,
+    "source_type": "text",
+    "content": "CMS Manual System Update Department of Health & Human Services\nPub 100-06 | Chapter 4 | Section 401.1 Centers for Medicare & Medicaid Services\nTransmittal 12006 Date: August 25, 2023\nChange request\nI. Summary of Changes\nUpdates to the CMS Internet-Only Manual (IOM), Chapter 4, Section 401.1 – Exhibit 1 and Exhibit 2:\n• Revised protocols for estimating allowances for uncollectible accounts\n• Updated procedures for accounts receivable trending analysis\nII. Changes in Manual Instructions\n(REVISED) Exhibit 1: Deducted-Only One Per Row\nR/N/D Chapter/Section/Title\nR $4011 -Exhibit 14, Protocol engineering\nR $4022 Exhibit Account\nIII. Funding\nNo additional funding will be provided by CMS.Contractors must use existing operating budgets\nIV. Medicare Administrative Contractors (MACs)\nMACs are instructed to implement these changes For questions, contact the person listed in the Internet-Only\nManual (IOM) Change Request\nAttachments\n• Exhibit 1: Protocol for Estimating Allowance for Uncollectible Accounts\n• Exhibit 2: Accounts Receivable Trending Analysis Procedures\nV. ATTACHMENTS:\nBusiness Requirements\nManual Instructions\nAttachment - Business Requirements",
+    "metadata": {
+      "section": "Text Content",
+      "keywords": [
+        "exhibit",
+        "manual",
+        "accounts",
+        "cms",
+        "chapter"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_1_table_1",
+    "page_number": 1,
+    "source_type": "table",
+    "table_number": 1,
+    "headers": [
+      "CMS Manual System Update",
+      "Department of Health & Human Services"
+    ],
+    "rows": [
+      {
+        "CMS Manual System Update": "Pub 100-06 | Chapter 4 | Section 401.1",
+        "Department of Health & Human Services": "Centers for Medicare & Medicaid Services"
+      },
+      {
+        "CMS Manual System Update": "Transmittal 12006",
+        "Department of Health & Human Services": "Date: August 25, 2023"
+      },
+      {
+        "CMS Manual System Update": "",
+        "Department of Health & Human Services": "Change request"
+      }
+    ],
+    "content": "Table 1: Extracted from page 1 with 3 rows and headers ['CMS Manual System Update', 'Department of Health & Human Services'].",
+    "metadata": {
+      "section": "Table Content",
+      "keywords": [
+        "cms",
+        "manual",
+        "system",
+        "update",
+        "department"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_1_table_2",
+    "page_number": 1,
+    "source_type": "table",
+    "table_number": 2,
+    "headers": [
+      "R/N/D",
+      "Chapter/Section/Title"
+    ],
+    "rows": [
+      {
+        "R/N/D": "R",
+        "Chapter/Section/Title": "$4011 -Exhibit 14, Protocol engineering"
+      },
+      {
+        "R/N/D": "R",
+        "Chapter/Section/Title": "$4022 Exhibit Account"
+      }
+    ],
+    "content": "Table 2: Extracted from page 1 with 2 rows and headers ['R/N/D', 'Chapter/Section/Title'].",
+    "metadata": {
+      "section": "Table Content",
+      "keywords": [
+        "chapter",
+        "section",
+        "title"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_2_chunk_1",
+    "page_number": 2,
+    "source_type": "text",
+    "content": "Pub. 100-06 Transmittal: 1326 Date: July 29, 2025 Change Request 14102\nSUBJECT: The Fiscal Year 2025 CMS Internet Only Manual (IOM) Update to Publication (Pub.) 100-06, Chapter\n5, 401.1 - Exhibit 14 - Protocol for Estimating Allowance for Uncollectible Accounts and 402.2-Exhibit 22 -\nAccounts Receivable Trending Analysis Procedures\nEFFECTIVE DATE: August 28, 2025\nIMPLEMENTATION DATE: August 28, 2025\n1. SUMMARY OF CHANGES:\nThe purpose of this Change Request (CR) is to provide updates to the instructions in the Internet Only Manual\n(IOM). Publication 100-06. Chapter 5 Financial Reporting, sections 401.1 - Exhibit 14 - Protocol for Estimating\nAllowance for Uncollectible Accounts and 402.2 - Exhibit 22-Accounts Receivable Trending Analysis Procedures.\nThe updates include several minor clarifications\n2. GENERAL INFORMATION\nA. Background:\nThe Centers for Medicare & Medicaid Services (CMS) Internet Only Manual (IOM), Publication 100-06. Medicare\nFinancial Management Manual, Chapter 5. Financial Reporting, provides instructions to Medicare Administrative\nContractors (MACS) for financial reporting. This Change Request (CR) updates the instructions in the IOM as\ndescribed above.\nB. Policy:\nNo policy is being established or changed by this CR. The updates are minor clarifications to the\nInstructor\nC. Provider Education:\nNo provider education is required\nD. Other:\nNo additional funding will be provided by CMS: contractor activities are to be camed out within their operating\nbudgets\nBUSINESS REQUIREMENTS TABLE\n\"Shall\" denotes a mandatory requirement \"\"Should\" denotes an optional requirement.\nNumber Requirement A B MAC DME Clark\nA B MH+H MAC FISS MCS VMS CWF\n14102.1 Medicate X X x\nadministrative\ncontractor\n(MAC)",
+    "metadata": {
+      "section": "Text Content",
+      "keywords": [
+        "100",
+        "2025",
+        "manual",
+        "iom",
+        "exhibit"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_2_table_1",
+    "page_number": 2,
+    "source_type": "table",
+    "table_number": 3,
+    "headers": [
+      "Pub. 100-06",
+      "Transmittal: 1326",
+      "Date: July 29, 2025",
+      "Change Request 14102"
+    ],
+    "rows": [],
+    "content": "Table 3: Extracted from page 2 with 0 rows and headers ['Pub. 100-06', 'Transmittal: 1326', 'Date: July 29, 2025', 'Change Request 14102'].",
+    "metadata": {
+      "section": "Table Content",
+      "keywords": [
+        "pub",
+        "100",
+        "transmittal",
+        "1326",
+        "date"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_2_table_2",
+    "page_number": 2,
+    "source_type": "table",
+    "table_number": 4,
+    "headers": [
+      "Number",
+      "Requirement",
+      "A",
+      "B",
+      "MAC",
+      "DME",
+      "Column_7",
+      "Column_8",
+      "Column_9",
+      "Column_10",
+      "Clark"
+    ],
+    "rows": [
+      {
+        "Number": "",
+        "Requirement": "",
+        "A": "A",
+        "B": "B",
+        "MAC": "MH+H",
+        "DME": "MAC",
+        "Column_7": "FISS",
+        "Column_8": "MCS",
+        "Column_9": "VMS",
+        "Column_10": "CWF",
+        "Clark": ""
+      },
+      {
+        "Number": "14102.1",
+        "Requirement": "Medicate\nadministrative\ncontractor\n(MAC)",
+        "A": "X",
+        "B": "X",
+        "MAC": "",
+        "DME": "x",
+        "Column_7": "",
+        "Column_8": "",
+        "Column_9": "",
+        "Column_10": "",
+        "Clark": ""
+      }
+    ],
+    "content": "Table 4: Extracted from page 2 with 2 rows and headers ['Number', 'Requirement', 'A', 'B', 'MAC', 'DME', 'Column_7', 'Column_8', 'Column_9', 'Column_10', 'Clark'].",
+    "metadata": {
+      "section": "Table Content",
+      "keywords": [
+        "number",
+        "requirement",
+        "mac",
+        "dme",
+        "column_7"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_3_chunk_1",
+    "page_number": 3,
+    "source_type": "text",
+    "content": "14102.1 MAC and X x x\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix\n14102.2 MAC and X x x\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix\n14102.21 MAC and X x x\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix\n14102.22 MAC and X x x\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix\nIV. Provide Education:\nNone",
+    "metadata": {
+      "section": "Text Content",
+      "keywords": [
+        "mac",
+        "14102",
+        "dme",
+        "shall",
+        "complots"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_3_table_1",
+    "page_number": 3,
+    "source_type": "table",
+    "table_number": 5,
+    "headers": [
+      "Number",
+      "Requirement",
+      "A",
+      "B",
+      "MAC",
+      "DME",
+      "Column_7",
+      "Column_8",
+      "Column_9",
+      "Column_10",
+      "Clark"
+    ],
+    "rows": [
+      {
+        "Number": "14102.1",
+        "Requirement": "MAC and\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix",
+        "A": "X",
+        "B": "x",
+        "MAC": "x",
+        "DME": "",
+        "Column_7": "",
+        "Column_8": "",
+        "Column_9": "",
+        "Column_10": "",
+        "Clark": ""
+      },
+      {
+        "Number": "14102.2",
+        "Requirement": "MAC and\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix",
+        "A": "X",
+        "B": "x",
+        "MAC": "x",
+        "DME": "",
+        "Column_7": "",
+        "Column_8": "",
+        "Column_9": "",
+        "Column_10": "",
+        "Clark": ""
+      },
+      {
+        "Number": "14102.21",
+        "Requirement": "MAC and\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix",
+        "A": "X",
+        "B": "x",
+        "MAC": "x",
+        "DME": "",
+        "Column_7": "",
+        "Column_8": "",
+        "Column_9": "",
+        "Column_10": "",
+        "Clark": ""
+      },
+      {
+        "Number": "14102.22",
+        "Requirement": "MAC and\nDME MAC\nshall\ncomplots the\nAllowance\nfor\nUncollectible\nAccounts\nMatrix",
+        "A": "X",
+        "B": "x",
+        "MAC": "x",
+        "DME": "",
+        "Column_7": "",
+        "Column_8": "",
+        "Column_9": "",
+        "Column_10": "",
+        "Clark": ""
+      }
+    ],
+    "content": "Table 5: Extracted from page 3 with 4 rows and headers ['Number', 'Requirement', 'A', 'B', 'MAC', 'DME', 'Column_7', 'Column_8', 'Column_9', 'Column_10', 'Clark'].",
+    "metadata": {
+      "section": "Table Content",
+      "keywords": [
+        "number",
+        "requirement",
+        "mac",
+        "dme",
+        "column_7"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_4_chunk_1",
+    "page_number": 4,
+    "source_type": "text",
+    "content": "Impacted Contractors: None\nV. SUPPORTING INFORMATION\nSection A: Recommendations and supporting information associated with listed requirements:\n\"Should\" denotes a recommendation.\n\"Should\" denotes a recommendation.\nRecommendations or other supporting information\nSection B: All other recommendations and supporting information:\nVI CONTACTS\nPost-Implementation Contact(s):\nContact your Contracting Officer's Representative (COR).\nVIL FUNDING\nSection A: For Medicare Administrative Contractors (MACS):\nThe Medicare Administrative Contractor is hereby advised that this constitutes technical direction as defined in your\ncontract. CMS does not construe this as a change to the MAC Statement of Work. The contractor is not obligated to\nincur costs in excess of the amount allotted in your contract unless and until specifically authorized by the\nContracting Officer. If the contractor considers anything provided, as described above, to be outside the current\nscope of work, the contractor shall withhold performance on the part(s) in question and immediately notify the\nContracting Officer, in writing or by e-mail, and request formal directions regarding continued performance\nrequirements.\nATTACHMENTS:\n8\nQ Search",
+    "metadata": {
+      "section": "Text Content",
+      "keywords": [
+        "supporting",
+        "information",
+        "contractor",
+        "section",
+        "recommendations"
+      ]
+    }
+  },
+  {
+    "chunk_id": "page_5_chunk_1",
+    "page_number": 5,
+    "source_type": "text",
+    "content": "40114-Exhibit 14-Protocol for Estimating Allowance for Uncollectible Accounts (Ref 1326, Issued: 07-29-25:\nEffective Date: 08-28-25: Implementation Date: 08-28-25)\nThe Federal Accounting Standards Advisory Board (FASAB) recommends drawing Statement of Federal Financial\nAccounting Standard Number 1 (Paragraphs 44-45) that the recorded allowance for uncollectible accounts should\nbe an amount that, when subtracted from the gross amount of accounts receivable, results in a net amount that is the\nagency's best estimate of the amount that will actually be collected. The allowance should be re-evaluated at the end\nof each fiscal year and at interim periods, as necessary, to ensure that it reflects the agency's best estimate of the net\nrealizable value of accounts receivable. The estimate should be based on an analysis of both individual accounts and\ngroups of accounts, as appropriate. The analysis should be based on historical collection experience, adjusted for\nchanges in current conditions, and, when appropriate, reasonable and supportable forecasts of future conditions.\nAccounts that represent individual amounts, e.g., greater than $1 million, should be individually analyzed to\ndetermine the likelihood of collection. All other accounts can be analyzed on a group basis. In addition to historical\nexperience, the analysis should consider such factors as the age of the receivable, the type of debtor, and other\napplicable factors, including possible sources. including laws, government, state, contractors and other significant\ninformation.\nThe write-off allowance for losses generally cannot be based solely on the results of individual account analysis, as\nthis may not provide a reasonable estimate of the amount that will actually be collected. In such cases, the agency\nshould use group analysis, based on historical experience and adjusted for current conditions and reasonable and\nsupportable forecasts.\nProtocol for Estimating Allowance for Uncollectible Accounts\nMedicare accounts receivable must be analyzed to determine whether each account is collectible or in order to\nreduce the allowance for uncollectible accounts to the agency's best estimate of the net realizable value of accounts\nreceivable. The analysis should be based on both individual and group analysis, as appropriate. The analysis should\nconsider historical collection experience. adjusted for changes in current conditions, and, when appropriate,\nreasonable and supportable forecasts of future conditions.\nMedicare accounts that meet materiality thresholds are analyzed for uncollectibility on an account-by-account basis.\nGroup analysis should be used for all other accounts. The following are Groups-Curent examples of Groups -\nCurrent Group 1 (Federal Non-Federal).\nSub-Group 1\n1 Class Report Settlements Annuiry (Non-MSP)\n2. Clean Accounts Receivable. Oracle Balances & Other Accounts Receivable (Non-MSP) Sub-Group?\nGroup Health Plans (Data Match Non-Data Match) MSP\n2 Liability MSP\nAssistant\nBy using Al Assistant, you agree to Generative Al User Guidelines.\nQ Searchss",
+    "metadata": {
+      "section": "Text Content",
+      "keywords": [
+        "accounts",
+        "should",
+        "analysis",
+        "group",
+        "receivable"
+      ]
+    }
+  }
+]
