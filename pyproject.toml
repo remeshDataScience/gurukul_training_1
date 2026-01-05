@@ -38,6 +38,11 @@ dependencies = [
     "langchain-core>=0.3.9",
     "langchain-ollama>=0.1.0",
     "langchain-groq>=0.1.0",
+    "sentence-transformers",
+    "docarray",
+    "pypdf",
+    "faiss-cpu", # ✅ FAISS vector store (CPU version) 
+    "chromadb>=0.5.0", # ✅ Chroma vector database
 
 
     # ---- Finance Tooling ----
